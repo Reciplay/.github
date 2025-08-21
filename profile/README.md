@@ -4,14 +4,21 @@
 
 <br/>
 
-
 <div align="center">
-  <a href="https://i13e104.p.ssafy.io/">홈페이지</a>
-  &nbsp; | &nbsp;
-  <a href="http://i13e104.p.ssafy.io:8080/swagger-ui/index.html">Swagger</a>
-  &nbsp; | &nbsp;
-  <a href="http://lush-player-a5b.notion.site/SSAFY-2-2227e3c3551e80889293c5391b2508cb?pvs=74">Notion</a>
+
+<a href="http://i13e104.p.ssafy.io:8080/swagger-ui/index.html">
+  <img src="https://github.com/Reciplay/resources/blob/main/notionBadege.png?raw=true" height="30"/>
+</a>
+<a href="http://i13e104.p.ssafy.io:8080/swagger-ui/index.html">
+  <img src="https://github.com/Reciplay/resources/blob/main/homepage.png?raw=true" height="30"/>
+</a>
+<a href="http://i13e104.p.ssafy.io:8080/swagger-ui/index.html">
+  <img src="https://github.com/Reciplay/resources/blob/main/swaggerBadge.png?raw=true" height="30"/>
+</a>
 </div>
+
+
+
 
 ---
 # 🍳 화상 요리 코칭 프로그램
