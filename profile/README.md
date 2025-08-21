@@ -175,8 +175,8 @@
 
 ## 📂 문서 자료
 
-- [포팅 메뉴얼](https://github.com/SSAFY-Sembot/Sembot/blob/develop/exec/%ED%8F%AC%ED%8C%85%EB%A7%A4%EB%89%B4%EC%96%BC.md)
-- [사용자 가이드](https://github.com/SSAFY-Sembot/Sembot/blob/develop/exec/%EC%82%AC%EC%9A%A9%EC%9E%90_%EA%B0%80%EC%9D%B4%EB%93%9C.pdf)
+- [포팅 메뉴얼](https://github.com/Reciplay/exec/blob/main/README.md)
+- [사용자 가이드](https://github.com/SSAFY-Sembot/Sembot/blob/develop/exec/%EC%82%AC%EC%9A%A9%EC%9E%90_%EA%B0%80%EC%9D%B4%EB%93%9C.pdf) 수정필요
 - [발표 자료](https://github.com/SSAFY-Sembot/Sembot/blob/develop/exec/%EC%B5%9C%EC%A2%85_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
 
 ---
