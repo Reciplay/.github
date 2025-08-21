@@ -1,16 +1,16 @@
-<p align="left">
+<p align="center">
   <picture>
     <!-- 다크 모드일 때 흰색 로고 -->
     <source
-      srcset="https://raw.githubusercontent.com/Reciplay/resources/refs/heads/main/logoblack.png"
+      srcset="https://raw.githubusercontent.com/Reciplay/resources/059600f410f382802c7fba1546667bc7bd98b923/logowhite.svg"
       media="(prefers-color-scheme: dark)" />
     <!-- 라이트 모드일 때 검은색 로고 -->
     <source
-      srcset="https://raw.githubusercontent.com/Reciplay/resources/refs/heads/main/logowhite.png"
+      srcset="https://raw.githubusercontent.com/Reciplay/resources/059600f410f382802c7fba1546667bc7bd98b923/logoblack.svg"
       media="(prefers-color-scheme: light)" />
     <!-- picture 태그 미지원 브라우저용 fallback -->
     <img
-      src="https://raw.githubusercontent.com/PathFinder-2025/resources/main/path-finder-logo-black.png"
+      src="https://raw.githubusercontent.com/Reciplay/resources/059600f410f382802c7fba1546667bc7bd98b923/logoblack.svg"
       alt="Path Finder Logo"
       width="200" />
   </picture>
