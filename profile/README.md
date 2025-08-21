@@ -1,29 +1,5 @@
-<p align="center">
-  <picture>
-    <!-- 다크 모드일 때 흰색 로고 -->
-    <source
-      srcset="https://raw.githubusercontent.com/Reciplay/resources/059600f410f382802c7fba1546667bc7bd98b923/logowhite.svg"
-      media="(prefers-color-scheme: dark)" />
-    <!-- 라이트 모드일 때 검은색 로고 -->
-    <source
-      srcset="https://raw.githubusercontent.com/Reciplay/resources/059600f410f382802c7fba1546667bc7bd98b923/logoblack.svg"
-      media="(prefers-color-scheme: light)" />
-    <!-- picture 태그 미지원 브라우저용 fallback -->
-    <img
-      src="https://raw.githubusercontent.com/Reciplay/resources/059600f410f382802c7fba1546667bc7bd98b923/logoblack.svg"
-      alt="Path Finder Logo"
-      width="200" />
-  </picture>
-</p>
 <div align="center">
-  <h1>제스쳐를 이용한 실시간 요리 클래스</h1>
-  <p>🔍 LiveKit 기반 화상 요리 플랫폼 🔍</p>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github.com/Reciplay/resources/blob/main/main.png?raw=true"/>
+  <img src="https://raw.githubusercontent.com/Reciplay/resources/refs/heads/main/mainmock.png"/>
 </div>
 
 <br/>
