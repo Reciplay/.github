@@ -23,7 +23,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Reciplay/resources/refs/heads/main/main.png"/>
+  <img src="https://github.com/Reciplay/resources/blob/main/main.png?raw=true"/>
 </div>
 
 <br/>
