@@ -4,13 +4,13 @@
 
 <br/>
 
-이거 넣을지 말지 고민중
+
 <div align="center">
-  <a href="https://sembot.co.kr/">홈페이지</a>
+  <a href="https://i13e104.p.ssafy.io/">홈페이지</a>
   &nbsp; | &nbsp;
-  <a href="http://k11s102.p.ssafy.io:8080/swagger-ui/index.html">Swagger</a>
+  <a href="http://i13e104.p.ssafy.io:8080/swagger-ui/index.html">Swagger</a>
   &nbsp; | &nbsp;
-  <a href="https://season-poison-a39.notion.site/Project-1134ef984a1880afa035f50350278481?pvs=4">Notion</a>
+  <a href="http://lush-player-a5b.notion.site/SSAFY-2-2227e3c3551e80889293c5391b2508cb?pvs=74">Notion</a>
 </div>
 
 ---
