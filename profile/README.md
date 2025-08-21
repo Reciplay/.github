@@ -177,14 +177,14 @@
 
 
 ## 👥 팀원 소개
-| 이름 | 역할 |
-|:----:|:----:|
-| 이재익 | 팀장 & FE & AI |
-| 강태욱 | FE & Design |
-| 배준재 | BE |
-| 이지언 | FE & Design |
-| 이원준 | BE & Infra |
-| 윤지욱 | BE |
+| 이름 | 역할 | Contact | 블로그 |
+|:----:|:----:|:----:|:----:|
+| 이재익 | 팀장 & FE & AI | [Git](https://github.com/onearmedoflepanto) | BE |
+| 강태욱 | FE & Design | [Git](https://github.com/sunshinemoongit) | BE |
+| 배준재 | BE | [Git](https://github.com/baejjyee) | [블로그](https://baejjyeestory.tistory.com/) |
+| 이지언 | FE & Design | [Git](https://github.com/leejieok) | BE |
+| 이원준 | BE & Infra | [Git](https://github.com/moe-lee) | [블로그](https://velog.io/@cosmos334/posts) |
+| 윤지욱 | BE | [Git](https://github.com/Yun-JW) | BE |
 
 ## 📂 문서 자료
 
