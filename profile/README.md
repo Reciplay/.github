@@ -174,8 +174,10 @@
 
 ## MySQL기반 인증 과정
 <img src="https://raw.githubusercontent.com/Reciplay/resources/refs/heads/main/MySQL%EA%B8%B0%EB%B0%98%20%EC%9D%B8%EC%A6%9D.png"/>
+
 ## 레디스기반 인증 과정
 <img src="https://raw.githubusercontent.com/Reciplay/resources/refs/heads/main/%EB%A0%88%EB%94%94%EC%8A%A4%EA%B8%B0%EB%B0%98%20%EC%9D%B8%EC%A6%9D.png"/>
+
 ## 팀원 소개
 | 이름 | 역할 | Contact | 블로그 |
 |:----:|:----:|:----:|:----:|
