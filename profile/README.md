@@ -91,10 +91,11 @@
     <tr>
       <td>🖥️ 프론트엔드</td>
       <td>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
         <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
         <img src="https://img.shields.io/badge/Zustand-1572B6?style=flat&logo=react&logoColor=white"/>
         <img src="https://img.shields.io/badge/NextAuth-000000?style=flat&logo=auth0&logoColor=white"/>
         <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white"/>
@@ -104,12 +105,15 @@
       <td>⚙️ 백엔드</td>
       <td>
         <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=Spring-Security&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white"/>
         <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat&logo=spring&logoColor=white"/>
         <img src="https://img.shields.io/badge/QueryDSL-005571?style=flat&logo=spring&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
         <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white"/>
       </td>
     </tr>
     <tr>
@@ -120,19 +124,43 @@
         <img src="https://img.shields.io/badge/STT-Speech--to--Text-FF6F00?style=flat&logo=google&logoColor=white"/>
         <img src="https://img.shields.io/badge/LLM-GPT-8A2BE2?style=flat&logo=openai&logoColor=white"/>
         <img src="https://img.shields.io/badge/RAG-009688?style=flat&logo=elastic&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AI%20자료%20생성-FF1493?style=flat&logo=ai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AI%20자료%20생성-FF1493?style=flat&logo=apachespark&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td>🔌 실시간 & 미디어</td>
+      <td>
+        <img src="https://img.shields.io/badge/STOMP-4B32C3?style=flat&logo=apachekafka&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenVidu-0E76A8?style=flat&logo=data:image/svg+xml;base64,PHN2Zy8+&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LiveKit-121212?style=flat&logo=data:image/svg+xml;base64,PHN2Zy8+&logoColor=white"/>
       </td>
     </tr>
     <tr>
       <td>☁️ 인프라 & DevOps</td>
       <td>
-        <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat&logo=amazon-ec2&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat&logo=amazon-s3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat&logo=amazonec2&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat&logo=amazons3&logoColor=white"/>
         <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white"/>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-        <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white"/>
         <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td>📄 문서화 & 협업</td>
+      <td>
+        <img src="https://img.shields.io/badge/Swagger%203%20(OpenAPI)-85EA2D?style=flat&logo=swagger&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td>🧪 성능/품질</td>
+      <td>
+        <img src="https://img.shields.io/badge/JMeter-D22128?style=flat&logo=apache&logoColor=white"/>
       </td>
     </tr>
   </tbody>
