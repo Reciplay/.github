@@ -78,6 +78,8 @@
 - 수강자 참여도 모니터링  
 
 ---
+## Architecture
+<img src="http://github.com/Reciplay/resources/blob/main/%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90%20%EC%84%A4%EA%B3%84.png?raw=true"/>
 
 ## ⚙️ 기술 스택
 <table>
