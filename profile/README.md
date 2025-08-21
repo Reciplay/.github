@@ -6,15 +6,12 @@
 
 <div align="center">
 
-<a href="http://i13e104.p.ssafy.io:8080/swagger-ui/index.html">
-  <img src="https://github.com/Reciplay/resources/blob/main/notionBadege.png?raw=true" height="30"/>
-</a>
-<a href="http://i13e104.p.ssafy.io:8080/swagger-ui/index.html">
-  <img src="https://github.com/Reciplay/resources/blob/main/homepage.png?raw=true" height="30"/>
-</a>
-<a href="http://i13e104.p.ssafy.io:8080/swagger-ui/index.html">
-  <img src="https://github.com/Reciplay/resources/blob/main/swaggerBadge.png?raw=true" height="30"/>
-</a>
+[![Homepage](https://img.shields.io/badge/Homepage-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://i13e104.p.ssafy.io/)
+&nbsp;
+[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)](http://i13e104.p.ssafy.io:8080/swagger-ui/index.html)
+&nbsp;
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/SSAFY-2-2227e3c3551e80889293c5391b2508cb)
+
 </div>
 
 
