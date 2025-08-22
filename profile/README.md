@@ -1,6 +1,8 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Reciplay/resources/refs/heads/main/mainmock.png"/>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Reciplay/resources/refs/heads/main/%EC%BB%A4%EC%8A%A4%ED%85%80_%EC%9B%B9%ED%9B%85_%EC%B1%95%ED%84%B0_%EC%9D%B4%EC%8A%88.png" width="30%" style="vertical-align:top;"/>
+  <img src="https://raw.githubusercontent.com/Reciplay/resources/refs/heads/main/%EC%BB%A4%EC%8A%A4%ED%85%80_%EC%9B%B9%ED%9B%85_%EC%A1%B0%EC%9D%B8_%EB%A6%AC%EC%A1%B0%EC%9D%B8.png" width="30%" style="vertical-align:top;"/>
+  <img src="https://raw.githubusercontent.com/Reciplay/resources/refs/heads/main/%EC%BB%A4%EC%8A%A4%ED%85%80_%EC%9B%B9%ED%9B%85_%ED%88%AC%EB%91%90_%EC%B2%B4%ED%81%AC.png" width="30%" style="vertical-align:top;"/>
+</p>
 
 <br/>
 
@@ -177,6 +179,16 @@
 
 ## 레디스기반 인증 과정
 <img src="https://raw.githubusercontent.com/Reciplay/resources/refs/heads/main/%EB%A0%88%EB%94%94%EC%8A%A4%EA%B8%B0%EB%B0%98%20%EC%9D%B8%EC%A6%9D.png"/>
+
+# 커스텀 웹훅 
+## 챕터 이슈
+<img src="https://raw.githubusercontent.com/Reciplay/resources/refs/heads/main/%EC%BB%A4%EC%8A%A4%ED%85%80_%EC%9B%B9%ED%9B%85_%EC%B1%95%ED%84%B0_%EC%9D%B4%EC%8A%88.png"/>
+
+## 조인-리조인
+<img src="https://raw.githubusercontent.com/Reciplay/resources/refs/heads/main/%EC%BB%A4%EC%8A%A4%ED%85%80_%EC%9B%B9%ED%9B%85_%EC%A1%B0%EC%9D%B8_%EB%A6%AC%EC%A1%B0%EC%9D%B8.png"/>
+
+## 투두 체크
+<img src="https://raw.githubusercontent.com/Reciplay/resources/refs/heads/main/%EC%BB%A4%EC%8A%A4%ED%85%80_%EC%9B%B9%ED%9B%85_%ED%88%AC%EB%91%90_%EC%B2%B4%ED%81%AC.png"/>
 
 ## 팀원 소개
 | 이름 | 역할 | Contact | 블로그 |
