@@ -196,7 +196,7 @@
 ### 강사 관리(관리자) 
  ![강사 관리](https://github.com/Reciplay/resources/blob/main/AdminControlInstructor.gif?raw=true)
 
-### 강좌 관리(관리)
+### 강좌 관리(관리자)
  ![강좌 관리](https://github.com/Reciplay/resources/blob/main/AdminControlCourse.gif?raw=true)
 
 # 기술 소개
