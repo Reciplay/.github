@@ -116,7 +116,17 @@
 ---
 
 ## 프로젝트 소개
-[![Video Label](http://img.youtube.com/vi/ha1RtZ4cx0k/0.jpg)](https://youtu.be/ha1RtZ4cx0k?si=qOKJSEjuYQ9T2d2F)
+<p align="center">
+  <a href="https://youtu.be/ha1RtZ4cx0k?si=qOKJSEjuYQ9T2d2F">
+    <img src="http://img.youtube.com/vi/ha1RtZ4cx0k/0.jpg" width="600"/>
+  </a>
+  <br/>
+  <a href="https://youtu.be/ha1RtZ4cx0k?si=qOKJSEjuYQ9T2d2F">
+    <img src="https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube&logoColor=white"/>
+  </a>
+</p>
+
+
 ### 프로젝트 배경
 기존 온라인 요리 강의는 단순 영상 시청 위주로,  
 - 손이 자유롭지 않아 **조작이 불편**하고  
