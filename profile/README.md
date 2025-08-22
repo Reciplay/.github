@@ -183,6 +183,9 @@
 ## Architecture
 <img src="http://github.com/Reciplay/resources/blob/main/%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90%20%EC%84%A4%EA%B3%84.png?raw=true"/>
 
+## CI/CD
+<img src="https://raw.githubusercontent.com/Reciplay/resources/refs/heads/main/%EC%A0%A0%ED%82%A8%EC%8A%A4%ED%8C%8C%EC%9D%B4%ED%94%84.png"/>
+
 ## 성능 개선
 
 | Label  | Samples  | Avg   | Median | 90% Line | 95% Line | 99% Line | Min | Maximum | Error % | Throughput         | Received KB/sec     | Sent KB/sec         |
