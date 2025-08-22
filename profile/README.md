@@ -179,15 +179,25 @@
 
 ## 부가 기능
 ### 회원가입
+![회원가입](https://github.com/Reciplay/resources/blob/main/SignUp.gif?raw=true)
 
 ### 로그인
+![로그인](https://github.com/Reciplay/resources/blob/main/SignIn.gif?raw=true)
+
+### 소셜 로그인
+![소셜 로그인](https://github.com/Reciplay/resources/blob/main/SNS.gif?raw=true)
 
 ### 강사 등록
- 
+ ![강사 등록](https://github.com/Reciplay/resources/blob/main/InstructorRegister.gif?raw=true)
 ### 강좌 등록
+ ![강좌 등록](https://github.com/Reciplay/resources/blob/main/CourseRegister.gif?raw=true)
 
 
-### 회원, 강사, 강좌 관리(관리자) 
+### 강사 관리(관리자) 
+ ![강사 관리](https://github.com/Reciplay/resources/blob/main/AdminControlInstructor.gif?raw=true)
+
+### 강좌 관리(관리)
+ ![강좌 관리](https://github.com/Reciplay/resources/blob/main/AdminControlCourse.gif?raw=true)
 
 # 기술 소개
 ## Architecture
