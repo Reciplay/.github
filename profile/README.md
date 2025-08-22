@@ -116,7 +116,7 @@
 ---
 
 ## 프로젝트 소개
-
+[![Video Label](http://img.youtube.com/vi/ha1RtZ4cx0k/0.jpg)](https://youtu.be/ha1RtZ4cx0k?si=qOKJSEjuYQ9T2d2F)
 ### 프로젝트 배경
 기존 온라인 요리 강의는 단순 영상 시청 위주로,  
 - 손이 자유롭지 않아 **조작이 불편**하고  
