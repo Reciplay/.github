@@ -156,48 +156,64 @@
 ### 제스처 기반 강의 제어
 - 손동작으로 챕터 이동 및 화면 제어  
 - 조작 부담 최소화 → 학습 집중도 향상  
-
-### 실시간 화상 코칭
 - **LiveKit + WebSocket** 기반 화상 강의  
-- 200ms 내 알림/모달 표시로 즉각 소통  
+
+Clap 제스쳐로 챕터 이동
+![박스 제스쳐](https://github.com/Reciplay/resources/blob/main/GestureClap.gif?raw=true)
+
+Thumb up으로 투두 체크
+![따봉 제스쳐](https://github.com/Reciplay/resources/blob/main/GestureThumbUp.gif?raw=true)
+
+Fist 제스쳐로 질문
+![피스트 제스쳐](https://github.com/Reciplay/resources/blob/main/GestureFist.gif?raw=true)
+
+Cross Arm 제스쳐 질문 상태 해제
+![크로스 암](https://github.com/Reciplay/resources/blob/main/GestureCrossedArm.gif?raw=true)
 
 ### STT + AI 챗봇
 - 학습자가 발화 → STT 변환 → 질문 자동 생성  
 - LLM + RAG 기반으로 레시피·강의 자료에 맞춘 답변 제공
 
-### AI 기반 강의 자료 생성
-- AI가 요리 주제에 맞는 **레시피, 단계별 가이드, 시각 자료**를 자동 생성  
-- 강사의 부담을 줄이고, 학습자는 최신 자료를 손쉽게 제공받을 수 있음  
+#### 타이핑으로 입력
+![챗봇 입력](https://raw.githubusercontent.com/Reciplay/resources/refs/heads/main/Chatbot.gif?raw=true)
 
-### 안정적인 강의 자료 관리
-- **AWS S3 + Presigned URL**  
-- 강의 영상, 레시피 PDF 안전하게 업로드/다운로드  
-
-### 관리자/강사 기능
-- 강의 등록 및 자료 관리  
-- 수강자 참여도 모니터링  
+#### STT로 입력
+![]()
 
 ## 웹페이지
 ### 회원가입
+- 이메일 OTP인증을 통한 회원가입
 ![회원가입](https://github.com/Reciplay/resources/blob/main/SignUp.gif?raw=true)
 
 ### 로그인
 ![로그인](https://github.com/Reciplay/resources/blob/main/SignIn.gif?raw=true)
 
 ### 소셜 로그인
+- 네이버, 카카오, 구글 회원가입 및 로그인 지원
 ![소셜 로그인](https://github.com/Reciplay/resources/blob/main/SNS.gif?raw=true)
 
 ### 강사 등록
+- 관리자에게 강사 등록 요청
  ![강사 등록](https://github.com/Reciplay/resources/blob/main/InstructorRegister.gif?raw=true)
+
 ### 강좌 등록
+#### AI 기반 강의 자료 생성
+- AI가 요리 주제에 맞는 **레시피, 단계별 가이드, 시각 자료**를 자동 생성  
+- 강사의 부담을 줄이고, 학습자는 최신 자료를 손쉽게 제공받을 수 있음  
+- **AWS S3 + Presigned URL**  
+- 강의 영상, 레시피 PDF 안전하게 업로드/다운로드  
  ![강좌 등록](https://github.com/Reciplay/resources/blob/main/CourseRegister.gif?raw=true)
 
-
 ### 강사 관리(관리자) 
+- 강사 등록 승인 및 반려 관리  
  ![강사 관리](https://github.com/Reciplay/resources/blob/main/AdminControlInstructor.gif?raw=true)
 
 ### 강좌 관리(관리자)
+- 강좌 등록 승인 및 반려 관리  
  ![강좌 관리](https://github.com/Reciplay/resources/blob/main/AdminControlCourse.gif?raw=true)
+
+### 찜, 구독, 검색
+![]()
 
 # 기술 소개
 ## Architecture
