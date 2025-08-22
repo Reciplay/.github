@@ -1,8 +1,7 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Reciplay/resources/refs/heads/main/%EC%BB%A4%EC%8A%A4%ED%85%80_%EC%9B%B9%ED%9B%85_%EC%B1%95%ED%84%B0_%EC%9D%B4%EC%8A%88.png" width="30%" style="vertical-align:top;"/>
-  <img src="https://raw.githubusercontent.com/Reciplay/resources/refs/heads/main/%EC%BB%A4%EC%8A%A4%ED%85%80_%EC%9B%B9%ED%9B%85_%EC%A1%B0%EC%9D%B8_%EB%A6%AC%EC%A1%B0%EC%9D%B8.png" width="30%" style="vertical-align:top;"/>
-  <img src="https://raw.githubusercontent.com/Reciplay/resources/refs/heads/main/%EC%BB%A4%EC%8A%A4%ED%85%80_%EC%9B%B9%ED%9B%85_%ED%88%AC%EB%91%90_%EC%B2%B4%ED%81%AC.png" width="30%" style="vertical-align:top;"/>
-</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Reciplay/resources/refs/heads/main/mainmock.png"/>
+</div>
 
 <br/>
 
@@ -15,77 +14,6 @@
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/SSAFY-2-2227e3c3551e80889293c5391b2508cb)
 
 </div>
-
-
-
-
----
-# 화상 요리 코칭 프로그램
-
-## 프로젝트 개요
-- **프로젝트명:** 화상 요리 코칭 프로그램  
-- **프로젝트 기간:** 2025.07.14 ~ 2025.08.18 
-- **프로젝트 형태:** 팀 프로젝트 (실시간 화상 수업 + AI 융합 서비스)  
-- **목표:** 제스처 기반 조작, 실시간 화상 수업, STT 기반 챗봇을 결합한 **상호작용형 요리 학습 플랫폼 개발**  
-- **주요 타겟 사용자:** 요리 학습을 원하는 일반 사용자 및 강사  
-
----
-
-## 프로젝트 소개
-
-### 프로젝트 배경
-기존 온라인 요리 강의는 단순 영상 시청 위주로,  
-- 손이 자유롭지 않아 **조작이 불편**하고  
-- 강의 **진도를 놓치기 쉽고 집중도가 낮으며**  
-- 강사와 **실시간 상호작용이 제한**되는 문제점이 있었습니다.  
-
-👉 이를 해결하기 위해 본 프로젝트는 **실시간 화상 통신, 제스처 인식, STT 챗봇, AI 보조**를 융합하여 **양방향 학습 경험**을 제공합니다.  
-
----
-
-## 프로젝트 목표
-1. **실시간 상호작용 강화**  
-   - 제스처 인식을 통한 직관적 강의 제어  
-   - WebSocket 기반 실시간 소통  
-
-2. **학습 편의성 증대**  
-   - STT 기반 **자동 질문 생성**  
-   - LLM + RAG 기반 **문맥형 AI 응답 제공**  
-
-3. **안정적이고 확장 가능한 플랫폼 구축**  
-   - LiveKit 기반 **저지연 미디어 서버**  
-   - AWS S3 기반 **안정적 자료 관리 및 확장성 확보**  
-
----
-
-## 주요 기능
-### 제스처 기반 강의 제어
-- 손동작으로 챕터 이동 및 화면 제어  
-- 조작 부담 최소화 → 학습 집중도 향상  
-
-### 실시간 화상 코칭
-- **LiveKit + WebSocket** 기반 화상 강의  
-- 200ms 내 알림/모달 표시로 즉각 소통  
-
-### STT + AI 챗봇
-- 학습자가 발화 → STT 변환 → 질문 자동 생성  
-- LLM + RAG 기반으로 레시피·강의 자료에 맞춘 답변 제공
-
-### AI 기반 강의 자료 생성
-- AI가 요리 주제에 맞는 **레시피, 단계별 가이드, 시각 자료**를 자동 생성  
-- 강사의 부담을 줄이고, 학습자는 최신 자료를 손쉽게 제공받을 수 있음  
-
-### 안정적인 강의 자료 관리
-- **AWS S3 + Presigned URL**  
-- 강의 영상, 레시피 PDF 안전하게 업로드/다운로드  
-
-### 관리자/강사 기능
-- 강의 등록 및 자료 관리  
-- 수강자 참여도 모니터링  
-
----
-## Architecture
-<img src="http://github.com/Reciplay/resources/blob/main/%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90%20%EC%84%A4%EA%B3%84.png?raw=true"/>
 
 ## 기술 스택
 <table>
@@ -174,21 +102,112 @@
   </tbody>
 </table>
 
-## MySQL기반 인증 과정
+
+---
+# 제스쳐 인식과 Livekit 기반 화상 요리 플랫폼 
+
+## 프로젝트 개요
+- **프로젝트명:** Reciplay
+- **프로젝트 기간:** 2025.07.14 ~ 2025.08.18 
+- **프로젝트 형태:** 팀 프로젝트 (실시간 화상 수업 + AI 융합 서비스)  
+- **목표:** 제스쳐 기반 조작, 실시간 화상 수업, STT 기반 챗봇을 결합한 **상호작용형 요리 학습 플랫폼 개발**  
+- **주요 타겟 사용자:** 요리 학습을 원하는 일반 사용자 및 강사  
+
+---
+
+## 프로젝트 소개
+
+### 프로젝트 배경
+기존 온라인 요리 강의는 단순 영상 시청 위주로,  
+- 손이 자유롭지 않아 **조작이 불편**하고  
+- 강의 **진도를 놓치기 쉽고 집중도가 낮으며**  
+- 강사와 **실시간 상호작용이 제한**되는 문제점이 있었습니다.  
+
+👉 이를 해결하기 위해 본 프로젝트는 **실시간 화상 통신, 제스처 인식, STT 챗봇, AI 보조**를 융합하여 **양방향 학습 경험**을 제공합니다.  
+
+---
+
+## 프로젝트 목표
+1. **실시간 상호작용 강화**  
+   - 제스처 인식을 통한 직관적 강의 제어  
+   - WebSocket, STOMP 기반 실시간 소통  
+
+2. **학습 편의성 증대**  
+   - STT 기반 **자동 질문 생성**  
+   - LLM + RAG 기반 **문맥형 AI 응답 제공**  
+
+3. **안정적이고 확장 가능한 플랫폼 구축**  
+   - LiveKit 기반 **저지연 미디어 서버**  
+   - AWS S3 기반 **안정적 자료 관리 및 확장성 확보**  
+
+---
+# 페이지 소개
+## 주요 기능
+### 제스처 기반 강의 제어
+- 손동작으로 챕터 이동 및 화면 제어  
+- 조작 부담 최소화 → 학습 집중도 향상  
+
+### 실시간 화상 코칭
+- **LiveKit + WebSocket** 기반 화상 강의  
+- 200ms 내 알림/모달 표시로 즉각 소통  
+
+### STT + AI 챗봇
+- 학습자가 발화 → STT 변환 → 질문 자동 생성  
+- LLM + RAG 기반으로 레시피·강의 자료에 맞춘 답변 제공
+
+### AI 기반 강의 자료 생성
+- AI가 요리 주제에 맞는 **레시피, 단계별 가이드, 시각 자료**를 자동 생성  
+- 강사의 부담을 줄이고, 학습자는 최신 자료를 손쉽게 제공받을 수 있음  
+
+### 안정적인 강의 자료 관리
+- **AWS S3 + Presigned URL**  
+- 강의 영상, 레시피 PDF 안전하게 업로드/다운로드  
+
+### 관리자/강사 기능
+- 강의 등록 및 자료 관리  
+- 수강자 참여도 모니터링  
+
+## 부가 기능
+### 회원가입
+
+### 로그인
+
+### 강사 등록
+ 
+### 강좌 등록
+
+
+### 회원, 강사, 강좌 관리(관리자) 
+
+# 기술 소개
+## Architecture
+<img src="http://github.com/Reciplay/resources/blob/main/%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90%20%EC%84%A4%EA%B3%84.png?raw=true"/>
+
+## 성능 개선
+
+| Label  | Samples  | Avg   | Median | 90% Line | 95% Line | 99% Line | Min | Maximum | Error % | Throughput         | Received KB/sec     | Sent KB/sec         |
+|--------|----------|-------|--------|----------|----------|----------|-----|---------|---------|--------------------|---------------------|---------------------|
+| MySQL  | 1,000,000| 217   | 133    | 360      | 735      | 1993     | 0   | 19302   | 0.0     | 4300.575847105928  | 1842.577311922379   | 1398.5271065295644  |
+| Redis  | 1,000,000| 171   | 203    | 250      | 267      | 313      | 1   | 648     | 0.0     | 5745.838576411034  | 2461.676603376255   | 1868.5197714305416  |
+| 개선율 |          | 21.19816% | -52%   | 30.5%    | 63.6735% | 84.295%  |     | 96.6428% |         | 33.6063%          |                     |                     |
+
+### MySQL기반 인증 과정
 <img src="https://raw.githubusercontent.com/Reciplay/resources/refs/heads/main/MySQL%EA%B8%B0%EB%B0%98%20%EC%9D%B8%EC%A6%9D.png"/>
 
-## 레디스기반 인증 과정
+### 레디스기반 인증 과정
 <img src="https://raw.githubusercontent.com/Reciplay/resources/refs/heads/main/%EB%A0%88%EB%94%94%EC%8A%A4%EA%B8%B0%EB%B0%98%20%EC%9D%B8%EC%A6%9D.png"/>
 
-# 커스텀 웹훅 
-## 챕터 이슈
+## 커스텀 웹훅 
+Livekit webhook 문제로 STOMP를 이용한 커스텀 웹훅을 구현했습니다.  
+### 챕터 이슈
 <img src="https://raw.githubusercontent.com/Reciplay/resources/refs/heads/main/%EC%BB%A4%EC%8A%A4%ED%85%80_%EC%9B%B9%ED%9B%85_%EC%B1%95%ED%84%B0_%EC%9D%B4%EC%8A%88.png"/>
 
-## 조인-리조인
+### 조인-리조인
 <img src="https://raw.githubusercontent.com/Reciplay/resources/refs/heads/main/%EC%BB%A4%EC%8A%A4%ED%85%80_%EC%9B%B9%ED%9B%85_%EC%A1%B0%EC%9D%B8_%EB%A6%AC%EC%A1%B0%EC%9D%B8.png"/>
 
-## 투두 체크
+### 투두 체크
 <img src="https://raw.githubusercontent.com/Reciplay/resources/refs/heads/main/%EC%BB%A4%EC%8A%A4%ED%85%80_%EC%9B%B9%ED%9B%85_%ED%88%AC%EB%91%90_%EC%B2%B4%ED%81%AC.png"/>
+
 
 ## 팀원 소개
 | 이름 | 역할 | Contact | 블로그 |
