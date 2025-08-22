@@ -261,7 +261,7 @@ Livekit webhook 문제로 STOMP를 이용한 커스텀 웹훅을 구현했습니
 ## 문서 자료
 
 - [포팅 메뉴얼](https://github.com/Reciplay/exec/blob/main/README.md)
-- [발표 자료](https://github.com/Reciplay/resources/blob/main/%ED%99%94%EC%83%81%EC%9A%94%EB%A6%AC%EC%BD%94%EC%B9%98%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8.pdf)
+- [발표 자료](https://reciplay.my.canva.site/)
 - [API 가이드 라인](https://github.com/Reciplay/.github/blob/main/API_%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B8.pdf)
 
 ---
