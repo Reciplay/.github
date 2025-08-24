@@ -196,6 +196,11 @@ Cross Arm 제스쳐 질문 상태 해제
 - 관리자에게 강사 등록 요청
  ![강사 등록](https://github.com/Reciplay/resources/blob/main/InstructorRegister.gif?raw=true)
 
+### 강사 상세 페이지
+- 강사 구독, 경력, 자격증, 강좌 목록 조회 
+![강사 상세 페이지](https://github.com/Reciplay/resources/blob/main/%EA%B0%95%EC%82%AC%20%ED%94%84%EB%A1%9C%ED%95%84%20%ED%8E%98%EC%9D%B4%EC%A7%80.gif?raw=true)
+
+
 ### 강좌 등록
 #### AI 기반 강의 자료 생성
 - AI가 요리 주제에 맞는 **레시피, 단계별 가이드, 시각 자료**를 자동 생성  
@@ -204,6 +209,10 @@ Cross Arm 제스쳐 질문 상태 해제
 - 강의 영상, 레시피 PDF 안전하게 업로드/다운로드  
  ![강좌 등록](https://github.com/Reciplay/resources/blob/main/CourseRegister.gif?raw=true)
 
+### 강좌 상세 페이지
+- 스케쥴 표, 수강평, 별점, Q&A를 등록 및 확인
+![강좌 상세 페이지](https://github.com/Reciplay/resources/blob/main/%EA%B0%95%EC%A2%8C%EC%83%81%EC%84%B8%20%ED%8E%98%EC%9D%B4%EC%A7%80.gif?raw=true)
+
 ### 강사 관리(관리자) 
 - 강사 등록 승인 및 반려 관리  
  ![강사 관리](https://github.com/Reciplay/resources/blob/main/AdminControlInstructor.gif?raw=true)
@@ -211,9 +220,6 @@ Cross Arm 제스쳐 질문 상태 해제
 ### 강좌 관리(관리자)
 - 강좌 등록 승인 및 반려 관리  
  ![강좌 관리](https://github.com/Reciplay/resources/blob/main/AdminControlCourse.gif?raw=true)
-
-### 찜, 구독, 검색
-![]()
 
 # 기술 소개
 ## Architecture
