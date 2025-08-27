@@ -116,11 +116,11 @@
 ---
 ## 프로젝트 소개
 <p align="center">
-  <a href="https://youtu.be/ha1RtZ4cx0k?si=qOKJSEjuYQ9T2d2F">
+  <a href="https://youtu.be/ha1RtZ4cx0k">
     <img src="http://img.youtube.com/vi/ha1RtZ4cx0k/0.jpg" width="600"/>
   </a>
   <br/>
-  <a href="https://youtu.be/ha1RtZ4cx0k?si=qOKJSEjuYQ9T2d2F">
+  <a href="https://youtu.be/ha1RtZ4cx0k">
     <img src="https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube&logoColor=white"/>
   </a>
 </p>
