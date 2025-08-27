@@ -114,7 +114,6 @@
 - **주요 타겟 사용자:** 요리 학습을 원하는 일반 사용자 및 강사  
 
 ---
-
 ## 프로젝트 소개
 <p align="center">
   <a href="https://youtu.be/ha1RtZ4cx0k?si=qOKJSEjuYQ9T2d2F">
